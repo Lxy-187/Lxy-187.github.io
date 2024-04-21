@@ -103,9 +103,4 @@ theme: cactus
 deploy:
   type: ''
 
-# Navigation
-##
-nav:
-  tag: /tags/
-  category: /categories/
-  search: /search/
+
